@@ -11,7 +11,7 @@ I am a developer with **2 years of experience in CRM Backend Development**. I ha
 
 ### 📂 Current Projects
 
-#### 🎭 [espocrm-playwright-architecture](https://github.com/tuan-architect/espocrm-playwright-architecture)
+#### 🎭 [espocrm-playwright-architecture](https://github.com/tuan-engineer/espocrm-playwright-architecture)
 *A practical automation blueprint for learning Playwright in real-world scenarios.*
 
 * **What it does:** I built this project as a "hands-on lab" to demonstrate how Playwright works within a real enterprise system (EspoCRM). Instead of basic tutorials, it focuses on solving actual challenges you'll face in professional environments.
