@@ -35,4 +35,18 @@ I am a developer with **2 years of experience in CRM Backend Development**. I ha
 ![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuan-architect&show_icons=true&theme=transparent&hide_border=true)
 
 ---
+
+### 📊 Engineering Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tuan-architect&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan-architect&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuan-architect&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 *“Simplicity is the soul of efficiency.” — Let's build better systems.*
