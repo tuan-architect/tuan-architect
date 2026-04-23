@@ -38,16 +38,16 @@ I am a developer with **2 years of experience in CRM Backend Development**. I ha
 ### 📊 Engineering Productivity & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuan-architect&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan-architect&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuan-engineer&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan-engineer&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan-architect&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan-engineer&theme=radical&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuan-architect&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuan-engineer&theme=radical" width="100%" />
 </p>
 
 ---
